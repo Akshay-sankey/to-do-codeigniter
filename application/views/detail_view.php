@@ -1,6 +1,6 @@
 <html>
-<body>
-	<h1>To-Do</h1>
+<body style="font-family:Arial;background:#EFE">
+	<h1>Things To-Do</h1>
 	<h2><?php print $todo->name; ?></h2>
 	<p>
 		<strong>Description</strong><br>
