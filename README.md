@@ -12,7 +12,8 @@ Created by Mark Johnson
 
 ##Installation
 1. Create a new database
-2. Execute the following SQL into the database:
+2. Open `application/config/database.php` and edit the host and database settings as needed.
+3. Execute the following SQL into the database:
 
 CREATE TABLE `todos` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
