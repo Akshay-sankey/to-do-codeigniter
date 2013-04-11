@@ -2,8 +2,8 @@
 Created by Mark Johnson
 
 ##Download using git
-
-- In your mac/unix terminal enter:  
+1. Create a new sub-directory on your PHP/MySQL server. If you dont have a web host, [MAMP](http://www.mamp.info)/[XAMPP](http://www.apachefriends.org/en/xampp-windows.html) work great on local machines.
+2. In your mac/unix terminal enter:  
  `git init https://github.com/marklj/to-do.git`
 
 ##Download manually
