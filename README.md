@@ -3,7 +3,8 @@ Created by Mark Johnson
 
 ##Download using git
 
-- git init https://github.com/marklj/to-do.git
+- In your mac/unix terminal enter:  
+ `git init https://github.com/marklj/to-do.git`
 
 ##Download manually
 1. Navigate yoyr browser to https://github.com/marklj/to-do
