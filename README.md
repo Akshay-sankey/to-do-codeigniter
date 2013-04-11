@@ -1,11 +1,11 @@
 #Intro to MVC using CodeIgniter#
 Created by Mark Johnson
 
-##Download using git##
+##Download using git
 
 - git init https://github.com/marklj/to-do.git
 
-##Download manually##
+##Download manually
 1. Navigate yoyr browser to https://github.com/marklj/to-do
 2. Click the zip link
 3. Save to a folder on your PHP/MySQL server
@@ -24,3 +24,9 @@ CREATE TABLE `todos` (
 
 INSERT INTO `todos` VALUES(1, 'Learn MVC', 'In class, learn model-view-controller');
 
+##Use this to LEARN
+Learn how to code in an MVC environment by editing and extending this little app. Try one of the following to get started:
+
+* Edit some view files to make them look less lame.
+* Add validation rules to the `create` controller function or the `insert` model function to make your app more secure.
+* Create new model/controller/views to add the functionality to edit or delete to-do items.
