@@ -31,3 +31,4 @@ Learn how to code in an MVC environment by editing and extending this little app
 * Edit some view files to make them look less lame.
 * Add validation rules to the `create` controller function or the `insert` model function to make your app more secure.
 * Create new model/controller/views to add the functionality to edit or delete to-do items.
+* Learn more specifically about CodeIgniter at [http://ellislab.com/codeigniter](http://ellislab.com/codeigniter)
