@@ -1,7 +1,7 @@
 #Intro to MVC using CodeIgniter#
 Created by Mark Johnson
 
-##Downloading using git##
+##Download using git##
 
 - git init https://github.com/marklj/to-do.git
 
@@ -11,7 +11,7 @@ Created by Mark Johnson
 3. Save to a folder on your PHP/MySQL server
 
 ##Installation
-1. Create a new database
+1. Create a new MySQL database
 2. Open `application/config/database.php` and edit the host and database settings as needed.
 3. Execute the following SQL into the database:
 
